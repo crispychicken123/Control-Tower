@@ -20,17 +20,12 @@
     },
     {
       "period": "2026-05",
-      "totalOrders": 142,
+      "totalOrders": 148,
       "completedOrders": 142,
-      "slaMet": 138,
-      "slaComplianceRate": 0.9718,
+      "slaMet": 140,
+      "slaComplianceRate": 0.9859,
       "averageProcessingTime": 4.3,
       "targetProcessingTime": 5
     }
-  ],
-  "summary": {
-    "overallComplianceRate": 0.9713,
-    "trend": "stable",
-    "anomalies": []
-  }
+  ]
 }
