@@ -1,0 +1,36 @@
+{
+  "metrics": [
+    {
+      "period": "2026-07",
+      "totalOrders": 150,
+      "completedOrders": 145,
+      "slaMet": 143,
+      "slaComplianceRate": 0.9655,
+      "averageProcessingTime": 4.2,
+      "targetProcessingTime": 5
+    },
+    {
+      "period": "2026-06",
+      "totalOrders": 128,
+      "completedOrders": 128,
+      "slaMet": 125,
+      "slaComplianceRate": 0.9766,
+      "averageProcessingTime": 4.1,
+      "targetProcessingTime": 5
+    },
+    {
+      "period": "2026-05",
+      "totalOrders": 142,
+      "completedOrders": 142,
+      "slaMet": 138,
+      "slaComplianceRate": 0.9718,
+      "averageProcessingTime": 4.3,
+      "targetProcessingTime": 5
+    }
+  ],
+  "summary": {
+    "overallComplianceRate": 0.9713,
+    "trend": "stable",
+    "anomalies": []
+  }
+}
