@@ -1,0 +1,47 @@
+{
+  "orders": [
+    {
+      "id": "ORD-001",
+      "customerId": "CUST-001",
+      "customerName": "Ahmed Company",
+      "status": "completed",
+      "createdAt": "2026-07-01T10:30:00Z",
+      "completedAt": "2026-07-01T14:30:00Z",
+      "sla": {
+        "target": 4,
+        "actual": 4,
+        "met": true
+      },
+      "items": 15,
+      "total": 5000
+    },
+    {
+      "id": "ORD-002",
+      "customerId": "CUST-002",
+      "customerName": "Tech Solutions",
+      "status": "in-progress",
+      "createdAt": "2026-07-12T08:00:00Z",
+      "sla": {
+        "target": 8,
+        "actual": 6,
+        "met": true
+      },
+      "items": 8,
+      "total": 3200
+    },
+    {
+      "id": "ORD-003",
+      "customerId": "CUST-003",
+      "customerName": "Global Retail",
+      "status": "pending",
+      "createdAt": "2026-07-12T11:15:00Z",
+      "sla": {
+        "target": 6,
+        "actual": 1,
+        "met": true
+      },
+      "items": 25,
+      "total": 8500
+    }
+  ]
+}
